@@ -17,7 +17,7 @@ Repository dedicata agli **esercizi**, ai **test** e agli **appunti** del corso 
 - [x] Operatori logici e aritmetici  
 - [x] Condizioni `if/elif/else`,`match`
 - [x] Cicli `for` e `while` con `range()`
-- [x] Liste, tuple, dizionari e insimi
+- [x] Liste, tuple, dizionari e insiemi
 - [X] Funzioni  
 - [X] Decoratori
 - [X] Programmazione orientata agli oggetti: Classi, oggetti, metodi, costruttori
