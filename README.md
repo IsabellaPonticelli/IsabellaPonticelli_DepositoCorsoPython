@@ -1,4 +1,4 @@
-# 🐍 Corso Python 2025b – Esercizi & Test
+# 🐍 Corso Python 2025 & Machine Learning – Esercizi & Test
 
 ![Stato corso](https://img.shields.io/badge/Corso-In%20corso-blueviolet?style=flat-square&logo=python&logoColor=white)
 
