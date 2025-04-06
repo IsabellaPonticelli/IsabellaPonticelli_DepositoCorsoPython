@@ -12,7 +12,7 @@ Repository dedicata agli **esercizi**, ai **test** e agli **appunti** del corso 
 
 ## 🧠 Argomenti trattati (in aggiornamento)
 
-- [x] Fondamenti di Python e dell'OOP 
+- [x] Fondamenti di *Python* e dell'*OOP* 
 - [x] Strutture e tipi di dati
 - [x] Operatori logici e aritmetici  
 - [x] Condizioni `if/elif/else`,`match`
@@ -20,7 +20,7 @@ Repository dedicata agli **esercizi**, ai **test** e agli **appunti** del corso 
 - [x] Liste, tuple, dizionari e insiemi
 - [X] Funzioni  
 - [X] Decoratori
-- [X] Programmazione orientata agli oggetti: Classi, oggetti, metodi, costruttori
+- [X] *OOP*: Classi, oggetti, metodi, costruttori
 
 ---
 
